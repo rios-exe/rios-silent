@@ -216,4 +216,3 @@ pcall(function()
 end)
 
 print("[Teleport Menu] Загружено успешно! (Mobile)")
-game.Players.LocalPlayer:Kick("See ya later")
